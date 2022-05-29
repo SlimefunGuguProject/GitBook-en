@@ -2,7 +2,7 @@
 
 * [Welcome!](README.md)
 
-## Bump <a href="#Bump" id="Bump"></a>
+## Bump
 
 * [What is Bump?](Bump/what-is-bump.md)
 * [Translation](Bump/translation.md)
@@ -16,3 +16,4 @@
 * [Items](Bump/items/README.md)
   * [Random Equipment](Bump/items/random-equipment.md)
   * [Food](Bump/items/food.md)
+  * [Appraisal Instrument](bump/items/appraisal-instrument.md)

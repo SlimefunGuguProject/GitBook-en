@@ -1,3 +1,3 @@
 # Machine
 
-* Appraisal instrument
+* [Appraisal instrument](../../bump/items/appraisal-instrument.md)
